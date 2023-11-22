@@ -67,7 +67,7 @@ public class Login_Functionality
     	
     	WebElement EMail = driver.findElement(By.xpath("//*[@id=\"container\"]/div/div[3]/div/div[2]/div/form/div[1]/input"));
     	softAssert.assertTrue(EMail.isDisplayed(), "EMail link is not displayed");
-    	EMail.sendKeys("9489483058");
+    	EMail.sendKeys("8875333333");
     	
     	Thread.sleep(5000);
     	
